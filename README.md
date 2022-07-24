@@ -18,7 +18,7 @@ Select game mode:
 Western_gunfight_game_multiplayer or Western_gunfight_game_solo 
 
 Enjoy!
-![alt text](http://url/to/img.png)
+![alt text](http://https://github.com/omkardpatil/West_gunfighter_game/blob/master/pygame.png)
 
 Pygame Basics
 I] Initiate window
