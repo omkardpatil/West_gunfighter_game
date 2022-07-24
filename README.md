@@ -24,6 +24,7 @@ Western_gunfight_game_multiplayer or Western_gunfight_game_solo
 ## Pre rec:
 
 i)Install python
+
     https://www.python.org/downloads/
 
 ii) Install pygame
