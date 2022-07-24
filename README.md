@@ -11,6 +11,10 @@ clone the repo to local dir
 
 (depending on what you want to play)
 
-run Western_gunfight_game_multiplayer or Western_gunfight_game_solo 
+run Main.py
+
+Select game mode:
+
+Western_gunfight_game_multiplayer or Western_gunfight_game_solo 
 
 Enjoy!
