@@ -80,7 +80,7 @@ def main():
             mouse_pos = pygame.mouse.get_pos()
             run = run_game(mouse_pos, solo_button, multi_button)
             if (run==False):
-                pygame.time.delay(3000)
+                pygame.time.delay(500)
 
 
 if __name__ == "__main__":

@@ -18,3 +18,10 @@ Select game mode:
 Western_gunfight_game_multiplayer or Western_gunfight_game_solo 
 
 Enjoy!
+![alt text](http://url/to/img.png)
+
+Pygame Basics
+I] Initiate window
+    
+    win_main = pygame.display.set_mode((win_width, win_height))
+    pygame.display.set_caption("Name of window")
