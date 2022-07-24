@@ -10,7 +10,7 @@ win_h = 500
 win_w = 800
 
 win = pygame.display.set_mode((win_w, win_h))
-pygame.display.set_caption("Cowboy_save_yourself_game")
+pygame.display.set_caption("West_gunfighter_game_solo")
 pygame.mixer.music.set_volume(0.5)
 
 # color data

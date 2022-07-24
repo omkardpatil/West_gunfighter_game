@@ -18,7 +18,7 @@ win_h = 9*multiplier
 win_w = 16*multiplier
 
 win = pygame.display.set_mode((win_w, win_h))
-pygame.display.set_caption("Cowboy_shooting_game")
+pygame.display.set_caption("West_gunfighter_game_multiplayer")
 pygame.mixer.music.set_volume(0.5)
 
 # color data
