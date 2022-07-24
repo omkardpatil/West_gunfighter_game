@@ -1,0 +1,7 @@
+Git commands:
+
+git status
+git add file_name.ext (or --all)
+git commit -m "msg"
+git push
+git status
