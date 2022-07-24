@@ -9,11 +9,11 @@ To start game:
 
 clone the repo to local dir
 
-(depending on what you want to play)
-
 run Main.py
 
 Select game mode:
+
+(depending on what you want to play)
 
 Western_gunfight_game_multiplayer or Western_gunfight_game_solo 
 
