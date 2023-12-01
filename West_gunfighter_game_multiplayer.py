@@ -200,7 +200,7 @@ def update_ults(ult_r,ult_l): #0.05
         ult_l += ult_increase_rate
     return ult_r,ult_l
 
-def main():  # main game login will be here
+def main():  # main game logic will be here
     clock, run, man_r, man_l, health_r, health_l, ult_r, ult_l, bgm = game_initialize()
     last_recd_time = 0
     while run:
